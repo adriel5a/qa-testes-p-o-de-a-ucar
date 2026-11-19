@@ -1,6 +1,6 @@
 # Projeto de QA – Pão de Açúcar
+
 Projeto de QA com planejamento e execução de testes manuais em funcionalidades de um sistema de supermercado, incluindo cenários de teste, casos positivos e negativos e registro de resultados.
-# Projeto de QA – Pão de Açúcar
 
 ## Sobre o projeto
 
@@ -27,7 +27,7 @@ Os testes foram organizados em uma matriz contendo:
 - Resultado obtido;
 - Status.
 
-## Tipo de teste
+## Tipos de teste
 
 - Testes manuais;
 - Testes funcionais;
